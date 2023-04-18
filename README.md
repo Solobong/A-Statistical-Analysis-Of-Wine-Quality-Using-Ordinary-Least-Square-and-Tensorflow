@@ -4,8 +4,8 @@ Wine tasting is said to be an art. For centuries many people have been practicin
 Data variables and definition
 
 Atributes Information:
-Fixed Acidity (tartaric acid - g / dm^3)
-Volatile acidity (acetic acid - g / dm^3)
+* Fixed Acidity (tartaric acid - g / dm^3)
+* Volatile acidity (acetic acid - g / dm^3)
 Citric acid (g / dm^3)
 Residual sugar (g / dm^3)
 Chlorides (sodium chloride - g / dm^3
