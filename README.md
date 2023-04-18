@@ -1,6 +1,7 @@
 # Wine-Quality-Analysis
-This Repo analysed based on some general chemical properties in winemaking, the effect of this properties on the quality of the wine
-Wine tasting is said to be an art. For centuries many people have been practicing this profession, where guided by the smell, color and taste of the wine they give them a rank.There are 13 variables and 6497 observations in the dataset, these are:- 1522 red wines and 4898 white wines. 11 input variables which are the chemical properties of the wine. 1 output variable is the score given by at least 3 wine experts rated the quality of each wine, providing a rating between 0 (very bad) and 10 (very excellent). The objective of the analysis part is to see the effect of each chemical propertuy on the quality of the wine.
+This Repo analysed based on some general chemical properties in winemaking, the effect of this properties on the quality of the wine.
+
+* Wine tasting is said to be an art. For centuries many people have been practicing this profession, where guided by the smell, color and taste of the wine they give them a rank.There are 13 variables and 6497 observations in the dataset, these are:- 1522 red wines and 4898 white wines. 11 input variables which are the chemical properties of the wine. 1 output variable is the score given by at least 3 wine experts rated the quality of each wine, providing a rating between 0 (very bad) and 10 (very excellent). The objective of the analysis part is to see the effect of each chemical propertuy on the quality of the wine.
 Data variables and definition
 
 ## Atributes Information:
